@@ -1,1 +1,3 @@
-new lesson
+<script>
+    alert()
+</script>
